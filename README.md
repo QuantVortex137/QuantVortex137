@@ -1,21 +1,23 @@
-# About Me :O
-* I+D, C, R , Python & Web Techs<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=22&duration=2500&pause=0&color=0EFFF9&vCenter=true&multiline=true&width=675&height=125&lines=Luis+Torres;Physicist+%7C+Programmer;Materials+Science+%7C+QFT+in+Solid+State+%7C+Plasmonics;Evolutive+Algorithms+%7C+DL+and+ML+%7C+Physics+Simulations)](https://git.io/typing-svg)
+
+* R&D, C, R , Python & Web Techs<br>
 * Computational Statistics, AI and Machine Learning<br>
-* Currently working in Evolutive Algorithms and CNN<br>
+* Currently working in Evolutive Algorithms and Image Segmentation using CNN<br>
 * Physics Student interested in Particle and Nuclear Physics as well as Materials Science<br>
 * IBM Qiskit Fall Fest Co-Organizer and Speaker at Sciences & Engineering Division, UG-CL 2024-2025
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Math&duration=2000&color=8019F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=525&height=70&lines=Simple+Armonic+Oscilator+Solution+Is+All+You+Need;%F0%9D%91%A6%3D%F0%9D%90%B4%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC(%F0%9D%91%A4%F0%9D%91%A1%2B%F0%9D%9C%99))](https://git.io/typing-svg) -->
 
 <!-- # 🌐 Socials -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/la.torresl)  
+## Social Media: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/la.torresl)  
 
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,github,html,css,js,matlab,tensorflow,pytorch,md,latex,vscode,netlify,notion,sketchup&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,r,html,css,js,tensorflow,pytorch,c,vscode,sketchup&perline=5" />
   </a>
 </p>
+
 
 # Main Projects
 - MTA modelling using Kolmogorov-Arnold Network and Genetic Algorithms (Python)
@@ -32,15 +34,15 @@ PAST TECH BADGES -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=latorresl&theme=tokyonight&hide_border=true)<br/> --><!-- Contributions & Streaks -->
 <!-- ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=latorresl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> --><!-- Most Used Languages -->
 <!-- Es posible usar el tema "2077" en las siguientes estadísticas para que parezca algo de Cyberpunk 2077 -->
-# 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latorresl&theme=tokyonight)<!-- General Stats, again... -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latorresl&theme=tokyonight&utcOffset=8)<!-- Commits, again... -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latorresl&theme=tokyonight)<br/><!-- Profile Details -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latorresl&theme=tokyonight)<!-- Top Languages by Repo -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latorresl&theme=tokyonight)<!-- Top Languages by Commit -->
+<!-- # 📊 Stats
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latorresl&theme=tokyonight)<!-- General Stats, again... -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latorresl&theme=tokyonight&utcOffset=8)<!-- Commits, again... -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latorresl&theme=tokyonight)<br/><!-- Profile Details -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latorresl&theme=tokyonight)<!-- Top Languages by Repo -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latorresl&theme=tokyonight)<!-- Top Languages by Commit -->
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=latorresl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- ## 🔝 Top Contributed Repo -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=latorresl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 <!--  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=latorresl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4) -->
@@ -49,7 +51,7 @@ PAST TECH BADGES -->
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)-->
 <!--### 🎶 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deadshot-2003&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=deadshot-2003&redirect=true)-->
----
-[![](https://visitcount.itsvg.in/api?id=QuantVortex137&icon=6&color=11)](https://visitcount.itsvg.in) 🐳
+
+<!-- [![](https://visitcount.itsvg.in/api?id=QuantVortex137&icon=6&color=11)](https://visitcount.itsvg.in) --> 🐳
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
